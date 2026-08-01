@@ -1,0 +1,3 @@
+# Always ignore these files
+data/koreader-books.json merge=theirs
+data/koreader-stats.json merge=theirs
