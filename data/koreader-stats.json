@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T03:24:48.264028",
+  "updated_at": "2026-11-01T03:25:46.261467",
   "yearly_stats": [
     {
       "date": "2026-07-23",
@@ -2595,37 +2595,20 @@
     },
     {
       "date": "2025-11-01",
-      "total_pages": 28,
-      "total_duration_seconds": 4364,
+      "total_pages": 23,
+      "total_duration_seconds": 2650,
       "books": [
         {
           "title": "Middlemarch",
-          "pages": 28,
-          "duration_seconds": 4364,
-          "duration_hours": 1.21
+          "pages": 23,
+          "duration_seconds": 2650,
+          "duration_hours": 0.74
         }
       ],
-      "total_duration_hours": 1.21,
-      "pages": 28,
-      "duration_seconds": 4364,
-      "duration_hours": 1.21
-    },
-    {
-      "date": "2025-10-31",
-      "total_pages": 5,
-      "total_duration_seconds": 699,
-      "books": [
-        {
-          "title": "Middlemarch",
-          "pages": 5,
-          "duration_seconds": 699,
-          "duration_hours": 0.19
-        }
-      ],
-      "total_duration_hours": 0.19,
-      "pages": 5,
-      "duration_seconds": 699,
-      "duration_hours": 0.19
+      "total_duration_hours": 0.74,
+      "pages": 23,
+      "duration_seconds": 2650,
+      "duration_hours": 0.74
     }
   ]
 }
