@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T05:21:10.400342",
+  "updated_at": "2026-11-11T03:52:25.951412",
   "yearly_stats": [
     {
       "date": "2026-07-23",
@@ -2439,23 +2439,6 @@
       "pages": 24,
       "duration_seconds": 1473,
       "duration_hours": 0.41
-    },
-    {
-      "date": "2025-11-10",
-      "total_pages": 3,
-      "total_duration_seconds": 240,
-      "books": [
-        {
-          "title": "Middlemarch",
-          "pages": 3,
-          "duration_seconds": 240,
-          "duration_hours": 0.07
-        }
-      ],
-      "total_duration_hours": 0.07,
-      "pages": 3,
-      "duration_seconds": 240,
-      "duration_hours": 0.07
     }
   ]
 }
